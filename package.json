@@ -1,0 +1,9 @@
+{
+  "name": "CallMeMaybeServer",
+  "description": "call me maybe server",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.x"
+  }
+}
